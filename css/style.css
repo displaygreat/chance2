@@ -360,7 +360,7 @@ a.footer-text {
   .single-content {
     grid-template-columns: 8fr 4fr;
   }
-  .sidebar {
+  .single-sidebar {
     margin-top: 66px;
   }
 }
@@ -445,7 +445,7 @@ a.footer-text {
     margin: auto;
     margin-bottom: 40px;
   }
-  .sidebar {
+  .single-sidebar {
     max-width: inherit;
     margin-top: 0;
     display: flex;
@@ -489,7 +489,7 @@ a.footer-text {
   .content {
     width: 380px;
   }
-  .sidebar {
+  .single-sidebar {
     display: block;
   }
   .banners-wrapper {
