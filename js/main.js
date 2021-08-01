@@ -27,7 +27,7 @@ const disableScroll = () => {
     height: 100%;
     top: -${window.scrollY};
     left: 0;
-    padding-right: ${scrollWidth};
+    padding-right: ${scrollWidth}px;
     overflow: hidden;
   `;
 };
